@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eethaefeil.sharon-mclaughlin.com/sitemap.xml
